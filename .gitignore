@@ -1,0 +1,6 @@
+resources/_gen/
+hugo_stats.json
+hugo.exe
+hugo.darwin
+hugo.linux
+.hugo_build.lock
