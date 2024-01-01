@@ -1,4 +1,5 @@
 resources/_gen/
+public/
 hugo_stats.json
 hugo.exe
 hugo.darwin
