@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Onur Cayci'
+theme = 'hugo-coder'
+defaultcontentlanguage = 'en-us'
+
+paginate = 20
+
+[markup.highlight]
+style = 'github-dark'
+
+[params]
+    author = 'Onur Cayci'
+    info = 'Software Engineer @ Private AI'
+    description = 'My personal website and blog'
+    keywords = 'blog,software,developer,engineer,engineering,AI,ML'
+    since = 2024
+    colorScheme = 'auto'
+
+[[params.social]]
+    name = 'GitHub'
+    icon = 'fa fa-github fa-2x'
+    weight = 1
+    url = 'https://github.com/onrcayci'
