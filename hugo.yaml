@@ -1,0 +1,40 @@
+baseURL: "https://onrcayci.github.io"
+defaultcontentlanguage: "en-us"
+languageCode: "en-us"
+paginate: 20
+publishDir: "docs"
+theme: "hugo-coder"
+title: "Onur Cayci"
+
+params:
+  author: "Onur Cayci"
+  info: "Software Engineer @ Private AI"
+  description: "My personal website and blog"
+  keywords: "blog,software,developer,engineer,engineering,AI,ML,coding,tech"
+  since: 2024
+  colorScheme: "auto"
+  avatarurl: "images/avatar.jpg"
+
+  favicon_32: "images/icons8-tech-ios-16-16.png"
+  favicon_16: "images/icons8-tech-ios-16-32.png"
+
+  social:
+    - name: "GitHub"
+      icon: "fa fa-github fa-2x"
+      weight: 1
+      url: "https://github.com/onrcayci"
+
+    - name: "LinkedIn"
+      icon: "fa fa-linkedin fa-2x"
+      weight: 2
+      url: "https://www.linkedin.com/in/onur-cayci"
+
+    - name: "Twitter"
+      icon: "fa fa-twitter fa-2x"
+      weight: 3
+      url: "https://twitter.com/onrcaycii"
+
+    - name: "Instagram"
+      icon: "fa fa-instagram fa-2x"
+      weight: 4
+      url: "https://www.instagram.com/softwarewithonur"
