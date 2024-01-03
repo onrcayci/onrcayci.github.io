@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://onrcayci.github.io'
 languageCode = 'en-us'
 title = 'Onur Cayci'
 theme = 'hugo-coder'
@@ -13,7 +13,7 @@ style = 'github-dark'
     author = 'Onur Cayci'
     info = 'Software Engineer @ Private AI'
     description = 'My personal website and blog'
-    keywords = 'blog,software,developer,engineer,engineering,AI,ML'
+    keywords = 'blog,software,developer,engineer,engineering,AI,ML,coding,tech'
     since = 2024
     colorScheme = 'auto'
     avatarurl = 'images/avatar.jpg'
@@ -28,14 +28,20 @@ style = 'github-dark'
     url = 'https://github.com/onrcayci'
 
 [[params.social]]
+    name = 'LinkedIn'
+    icon = 'fa fa-linkedin fa-2x'
+    weight = 2
+    url = 'https://www.linkedin.com/in/onur-cayci'
+
+[[params.social]]
     name = 'Twitter'
     icon = 'fa fa-twitter fa-2x'
-    weight = 2
+    weight = 3
     url = 'https://twitter.com/onrcaycii'
 
 [[params.social]]
     name = 'Instagram'
     icon = 'fa fa-instagram fa-2x'
-    weight = 3
+    weight = 4
     url = 'https://www.instagram.com/softwarewithonur'
     
